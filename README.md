@@ -1,0 +1,1 @@
+# obsidian-oreilly-learning-plugin
