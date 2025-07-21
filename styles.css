@@ -1,0 +1,7 @@
+/* O'Reilly Learning Plugin Styles */
+
+/* Removed custom ribbon color to use default */
+
+.oreilly-export-script {
+    transition: background-color 0.2s ease;
+}

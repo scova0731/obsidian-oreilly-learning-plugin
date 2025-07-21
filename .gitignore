@@ -1,0 +1,30 @@
+# npm
+node_modules/
+npm-debug.log*
+
+# Build files
+main.js
+*.js.map
+
+# Development
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Obsidian
+.obsidian/
+vault/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Testing
+coverage/
+.nyc_output/

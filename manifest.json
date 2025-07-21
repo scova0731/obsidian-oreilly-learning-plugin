@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-oreilly-learning",
+	"name": "O'Reilly Learning",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Import O'Reilly Learning highlights into your Obsidian vault",
+	"author": "Satoshi Kobayashi",
+	"authorUrl": "https://github.com/scova0731",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
